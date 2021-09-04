@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: "#fff"
     },
     hero: {
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1432821596592-e2c18b78144f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit')`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1522199755839-a2bacb67c546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit')`,
         height: "500px",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
@@ -123,7 +123,7 @@ function App() {
         <
         Box className = { classes.author } >
         <
-        Avatar src = "https://www.pexels.com/photo/black-and-silver-film-camera-on-brown-wooden-surface-733853/" / >
+        Avatar src = "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" / >
         <
         Box ml = { 2 } >
         <
